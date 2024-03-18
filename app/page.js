@@ -39,7 +39,7 @@ export default function Home() {
                 </ul>
               </li>
               <li>
-                <a>New Changes added</a>
+                <a>New Changes added again</a>
               </li>
             </ul>
           </div>
