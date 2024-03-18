@@ -110,7 +110,7 @@ export default function Home() {
               ></path>
             </svg>
           </div>
-          <div class="stat-title">Page Views</div>
+          <div class="stat-title">Page NOTHING</div>
           <div class="stat-value text-secondary">2.6M</div>
           <div class="stat-desc">21% more than last month</div>
         </div>
