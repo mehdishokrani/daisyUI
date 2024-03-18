@@ -28,7 +28,7 @@ export default function Home() {
                 <a>{process.env.MYENVVAR}</a>
               </li>
               <li>
-                <a>Parent</a>
+                <a>Parentttt</a>
                 <ul className="p-2">
                   <li>
                     <a>Submenu 1</a>
